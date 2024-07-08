@@ -2,7 +2,8 @@ Bu çalışmada, Java programlama dili kullanılarak bir Ar-Ge firması otomasyo
 
 Anasayfa.java dosyasını çalıştırdığımızda karşımıza aşağıdaki menü çıkmaktadır:
 
-Tüm Departmanların Bilgilerini Listele
+Tüm Departmanların Bilgilerini Listelen
+
 Departman Adına Göre Arama Yap
 Personel Adına Göre Arama Yap
 Proje Adına Göre Arama Yap
